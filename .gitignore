@@ -1,6 +1,19 @@
-HW0/*
-!HW0/Overview_of_NLP.pdf
+HW*/*
 
-HW1/*
-!HW1/hw1.py
-!HW1/HW1_Overview.pdf
+# code
+!*.py
+!*.ipynb
+
+# compiled notebooks
+!hw*.pdf
+
+# overview docs
+!HW*/HW*_Overview.pdf
+
+# data
+!**/data/
+
+# misc
+!.gitignore
+!README.md
+!HW0/Overview_of_NLP.pdf

@@ -15,3 +15,9 @@ This is a program that reads employee data written in an inconsistent format and
 You can see the source code [here](https://github.com/platformer/NLP/blob/main/HW1/hw1.py).
 
 You can see an overview of the assignment [here](https://github.com/platformer/NLP/blob/main/HW1/HW1_Overview.pdf).
+
+## Portfolio Assignment 2
+
+This is a Python notebook going over the basics of using NLTK.
+
+You can see the pdf of the notebook [here](https://github.com/platformer/NLP/blob/main/HW2/hw2.pdf).
