@@ -24,6 +24,6 @@ You can see the pdf of the notebook [here](https://github.com/platformer/NLP/blo
 
 ## NLTK Word Game
 
-This is a Python program that explores more NLTK functions, specifically the POS tagging function. It also contains a word guessing game that uses words NLTK picks out from a piece of text. The program finds the 50 most common nouns in the text uses those words as the guessing game's dictionary.
+This is a Python program that explores more NLTK functions, specifically the POS tagging function. It also contains a word guessing game that uses words that NLTK picks out from a piece of text. The program finds the 50 most common nouns in the text and uses those words as the guessing game's dictionary.
 
 You can see the source code [here](https://github.com/platformer/NLP/blob/main/HW3/hw3.py).
