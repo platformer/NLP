@@ -20,6 +20,8 @@ You can see an overview of the assignment [here](https://github.com/platformer/N
 
 This is a Python notebook going over the basics of using NLTK.
 
+You can see the notebook [here](https://github.com/platformer/NLP/blob/main/HW2/hw2.ipynb).
+
 You can see the pdf of the notebook [here](https://github.com/platformer/NLP/blob/main/HW2/hw2.pdf).
 
 ## NLTK Word Game
@@ -27,3 +29,11 @@ You can see the pdf of the notebook [here](https://github.com/platformer/NLP/blo
 This is a Python program that explores more NLTK functions, specifically the POS tagging function. It also contains a word guessing game that uses words that NLTK picks out from a piece of text. The program finds the 50 most common nouns in the text and uses those words as the guessing game's dictionary.
 
 You can see the source code [here](https://github.com/platformer/NLP/blob/main/HW3/hw3.py).
+
+## NLTK WordNet Python Notebook
+
+This is a Python notebook exploring the basics of using WordNet and SentiWordNet in NLTK.
+
+You can see the notebook [here](https://github.com/platformer/NLP/blob/main/HW4/hw4.ipynb).
+
+You can see the pdf of the notebook [here](https://github.com/platformer/NLP/blob/main/HW4/hw4.pdf).
