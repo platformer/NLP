@@ -37,3 +37,15 @@ This is a Python notebook exploring the basics of using WordNet and SentiWordNet
 You can see the notebook [here](https://github.com/platformer/NLP/blob/main/HW4/hw4.ipynb).
 
 You can see the pdf of the notebook [here](https://github.com/platformer/NLP/blob/main/HW4/hw4.pdf).
+
+## NLTK Ngrams
+
+This is a pair of Python programs that use NLTK's ngrams module to build a probabilistic model for English, French, and Italian. These models are then used to predict the language of various lines of text in a test dataset.
+
+You can see the program that creates the models [here](https://github.com/platformer/NLP/blob/main/HW5/program1.py).
+
+You can see the program that uses the model to predict on test data [here](https://github.com/platformer/NLP/blob/main/HW5/program2.pdf).
+
+You can see the data [here](https://github.com/platformer/NLP/blob/main/HW5/data). You must run the programs from the same directory as the data.
+
+You can see a narrative document discussing ngrams [here](https://github.com/platformer/NLP/blob/main/HW5/Narrative.pdf).
