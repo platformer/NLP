@@ -49,3 +49,11 @@ You can see the program that uses the model to predict on test data [here](https
 You can see the data [here](https://github.com/platformer/NLP/blob/main/HW5/data). You must run the programs from the same directory as the data.
 
 You can see a narrative document discussing ngrams [here](https://github.com/platformer/NLP/blob/main/HW5/Narrative.pdf).
+
+## Webcrawler
+
+This is a Python program that takes a starting url and recursively crawls linked webpages, scrapes their text, and outputs a list of important terms among all the scraped pages. Some simple measures are taken to prevent the program from scraping irrelevant links or staying within the same domain. I chose to start the program with a link to a wikipedia page about the 2022 season of Formula 1. I used the BeautifulSoup package to perform the webscraping.
+
+You can see the source code [here](https://github.com/platformer/NLP/blob/main/HW6/hw6.py).
+
+You can see an overview document [here](https://github.com/platformer/NLP/blob/main/HW6/HW6_Overview.pdf).
