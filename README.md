@@ -57,3 +57,9 @@ This is a Python program that takes a starting url and recursively crawls linked
 You can see the source code [here](https://github.com/platformer/NLP/blob/main/HW6/hw6.py).
 
 You can see an overview document [here](https://github.com/platformer/NLP/blob/main/HW6/HW6_Overview.pdf).
+
+## Syntax Parsing
+
+This is a document demonstrating a PSG, dependency, and SRL parse of a somewhat complex sentence.
+
+You can see the document [here](https://github.com/platformer/NLP/blob/main/HW7/hw7.pdf).
