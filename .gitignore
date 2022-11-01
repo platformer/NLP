@@ -13,6 +13,7 @@ HW*/*
 
 # data
 !**/data/
+!*.csv
 
 # misc
 !.gitignore

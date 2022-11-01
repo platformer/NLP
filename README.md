@@ -63,3 +63,13 @@ You can see an overview document [here](https://github.com/platformer/NLP/blob/m
 This is a document demonstrating a PSG, dependency, and SRL parse of a somewhat complex sentence.
 
 You can see the document [here](https://github.com/platformer/NLP/blob/main/HW7/hw7.pdf).
+
+## Author Attribution
+
+This is a python notebook exploring the basics of sklearn and neural networks in order to identify the authors of the Federalist papers.
+
+You can see the notebook [here](https://github.com/platformer/NLP/blob/main/HW8/hw8.ipynb).
+
+You can see a pdf the above notebook [here](https://github.com/platformer/NLP/blob/main/HW8/hw8.pdf).
+
+You can see the dataset [here](https://github.com/platformer/NLP/blob/main/HW8/federalist.csv).
