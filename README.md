@@ -73,3 +73,23 @@ You can see the notebook [here](https://github.com/platformer/NLP/blob/main/HW8/
 You can see a pdf the above notebook [here](https://github.com/platformer/NLP/blob/main/HW8/hw8.pdf).
 
 You can see the dataset [here](https://github.com/platformer/NLP/blob/main/HW8/federalist.csv).
+
+## Chatbot
+
+This is a chatbot written in Python. The chatbot primarily functions by drawing from Reddit comments on subreddits associated with the user's interests, but it will fall back on hard-coded canned responses when no good data seems available.
+
+You can see the source code [here](https://github.com/platformer/NLP/blob/main/HW9/chatbot.py).
+
+You can access a Google Colab notebook of the chatbot [here](https://colab.research.google.com/drive/1JoAQF8m72Gm78dE8HQVkZePeKSYPPXTy?usp=sharing).
+
+You can see a README of the chatbot [here](https://github.com/platformer/NLP/blob/main/HW9/README.md).
+
+You can see a written report on the chatbot [here](https://github.com/platformer/NLP/blob/main/HW9/report.pdf).
+
+## ACL Paper Summary
+
+This is a summary of a paper from the 2021 ACL Conference. The paper is *Conversations Are Not Flat: Modeling the Dynamic Information Flow across Dialogue Utterances*.
+
+You can the paper [here](https://aclanthology.org/2021.acl-long.11/).
+
+You can see the summary document [here](https://github.com/platformer/NLP/blob/main/HW10/ACL_Paper_Summary.pdf).
