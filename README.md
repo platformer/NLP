@@ -30,6 +30,8 @@ This is a Python program that explores more NLTK functions, specifically the POS
 
 You can see the source code [here](https://github.com/platformer/NLP/blob/main/HW3/hw3.py).
 
+You can get a sample text document [here](https://github.com/platformer/NLP/blob/main/HW3/anat19.txt).
+
 ## NLTK WordNet Python Notebook
 
 This is a Python notebook exploring the basics of using WordNet and SentiWordNet in NLTK.
