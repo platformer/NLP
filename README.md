@@ -86,7 +86,7 @@ You can access a Google Colab notebook of the chatbot [here](https://colab.resea
 
 You can see a README of the chatbot [here](https://github.com/platformer/NLP/blob/main/HW9/README.md).
 
-You can see a written report on the chatbot [here](https://github.com/platformer/NLP/blob/main/HW9/report.pdf).
+You can see a written report on the chatbot [here](https://github.com/platformer/NLP/blob/main/HW9/Chatbot_Report.pdf).
 
 ## ACL Paper Summary
 
