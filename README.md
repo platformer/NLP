@@ -106,4 +106,4 @@ You can see a pdf the above notebook [here](https://github.com/platformer/NLP/bl
 
 You can see the dataset [here](https://github.com/platformer/NLP/blob/main/HW11/data/Emotion_final.csv).
 
-This notebook uses GloVe pretrained word embeddings, which can be found [here](http://nlp.stanford.edu/data/glove.6B.zip)
+This notebook uses GloVe pretrained word embeddings, which can be found [here](http://nlp.stanford.edu/data/glove.6B.zip).
