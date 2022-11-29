@@ -20,9 +20,7 @@ You can see an overview of the assignment [here](https://github.com/platformer/N
 
 This is a Python notebook going over the basics of using NLTK.
 
-You can see the notebook [here](https://github.com/platformer/NLP/blob/main/HW02/hw2.ipynb).
-
-You can see the pdf of the notebook [here](https://github.com/platformer/NLP/blob/main/HW02/hw2.pdf).
+You can see the notebook [here](https://github.com/platformer/NLP/blob/main/HW02/hw2.ipynb). You can see a pdf of this notebook [here](https://github.com/platformer/NLP/blob/main/HW02/hw2.pdf).
 
 ## NLTK Word Game
 
@@ -36,9 +34,7 @@ You can get a sample text document [here](https://github.com/platformer/NLP/blob
 
 This is a Python notebook exploring the basics of using WordNet and SentiWordNet in NLTK.
 
-You can see the notebook [here](https://github.com/platformer/NLP/blob/main/HW04/hw4.ipynb).
-
-You can see the pdf of the notebook [here](https://github.com/platformer/NLP/blob/main/HW04/hw4.pdf).
+You can see the notebook [here](https://github.com/platformer/NLP/blob/main/HW04/hw4.ipynb). You can see a pdf of this notebook [here](https://github.com/platformer/NLP/blob/main/HW04/hw4.pdf).
 
 ## NLTK Ngrams
 
@@ -70,9 +66,7 @@ You can see the document [here](https://github.com/platformer/NLP/blob/main/HW07
 
 This is a python notebook exploring the basics of sklearn and neural networks in order to identify the authors of the Federalist papers.
 
-You can see the notebook [here](https://github.com/platformer/NLP/blob/main/HW08/hw8.ipynb).
-
-You can see a pdf the above notebook [here](https://github.com/platformer/NLP/blob/main/HW08/hw8.pdf).
+You can see the notebook [here](https://github.com/platformer/NLP/blob/main/HW08/hw8.ipynb). You can see a pdf of this notebook [here](https://github.com/platformer/NLP/blob/main/HW08/hw8.pdf).
 
 You can see the dataset [here](https://github.com/platformer/NLP/blob/main/HW08/federalist.csv).
 
@@ -84,7 +78,7 @@ You can see the source code [here](https://github.com/platformer/NLP/blob/main/H
 
 You can access a Google Colab notebook of the chatbot [here](https://colab.research.google.com/drive/1JoAQF8m72Gm78dE8HQVkZePeKSYPPXTy?usp=sharing).
 
-You can see a README of the chatbot [here](https://github.com/platformer/NLP/blob/main/HW09/README.md).
+You can see a README for the chatbot [here](https://github.com/platformer/NLP/blob/main/HW09/README.md).
 
 You can see a written report on the chatbot [here](https://github.com/platformer/NLP/blob/main/HW09/Chatbot_Report.pdf).
 
@@ -100,9 +94,7 @@ You can see the summary document [here](https://github.com/platformer/NLP/blob/m
 
 This is a python notebook exploring the basics of Keras and neural networks in order to label snippets of text based on the emotion they are most associated with.
 
-You can see the notebook [here](https://github.com/platformer/NLP/blob/main/HW11/hw11.ipynb).
-
-You can see a pdf the above notebook [here](https://github.com/platformer/NLP/blob/main/HW11/hw11.pdf).
+You can see the notebook [here](https://github.com/platformer/NLP/blob/main/HW11/hw11.ipynb). You can see a pdf of this notebook [here](https://github.com/platformer/NLP/blob/main/HW11/hw11.pdf).
 
 You can see the dataset [here](https://github.com/platformer/NLP/blob/main/HW11/data/Emotion_final.csv).
 
